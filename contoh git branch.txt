@@ -6,3 +6,4 @@ contoh git branch
 - kelima
 - ke enam
 - ke tujuh
+- ke  delapan
