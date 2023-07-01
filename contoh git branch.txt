@@ -4,3 +4,5 @@ contoh git branch
 - ketiga
 - ke empat
 - kelima
+- ke enam
+- ke tujuh
